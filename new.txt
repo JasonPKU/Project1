@@ -1,2 +1,4 @@
 lol it works now!
 dev branch now
+Creating a new branch is quick AND simple.
+
